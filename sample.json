@@ -1,0 +1,13 @@
+{
+    "id": "Incoming_20230309042552{guid}", 
+    "data": {
+        "messageId": "Incoming_20230309042552{guid}",
+        "from": "+17153832602", 
+        "to": "+18552444756", 
+        "message": "K", 
+        "receivedTimestamp": "2023-03-09T04:25:52.26Z"
+    }, 
+    "topic": "/subscriptions/{guid}/resourcegroups/defaultresourcegroup-eus/providers/microsoft.communication/communicationservices/atlassms", 
+    "subject": "/phonenumber/+1855{7-digit-number}", 
+    "event_type": "Microsoft.Communication.SMSReceived"
+}

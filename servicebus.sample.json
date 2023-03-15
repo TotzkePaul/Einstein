@@ -1,0 +1,16 @@
+{
+    "id":"<REDACTED>",
+    "topic":"/subscriptions/<REDACTED>/resourcegroups/defaultresourcegroup-eus/providers/microsoft.communication/communicationservices/atlassms",
+    "subject":"/phonenumber/+<REDACTED>",
+    "data": {
+        "messageId":"<REDACTED>",
+        "from":"+<REDACTED>",
+        "to":"+<REDACTED>",
+        "message":"Did I tell you about my dream last night?",
+        "receivedTimestamp":"2023-03-10T03:44:20.75Z"
+    },
+    "eventType":"Microsoft.Communication.SMSReceived",
+    "dataVersion":"1.0",
+    "metadataVersion":"1",
+    "eventTime":"2023-03-10T03:44:21Z"
+}
